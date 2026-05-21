@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-
+  console.log("JS 有跑");
   const tl = gsap.timeline();
 
   const pet = document.querySelector(".spawnPerson");
